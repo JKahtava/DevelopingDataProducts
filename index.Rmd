@@ -1,0 +1,12 @@
+----
+title: "Developing Data products"
+author: "Jussi Kahtava"
+date: "12 November 2016"
+bibliography: refs.bib
+output: 
+        html_document:
+        keep_md: yes
+---
+===================================================================
+        
+## Summary
